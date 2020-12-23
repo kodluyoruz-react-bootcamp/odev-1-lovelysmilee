@@ -1,0 +1,16 @@
+{
+  "name": "odev1",
+  "version": "0.0.0",
+  "description": "Odev1",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "sucrase": "^3.16.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
